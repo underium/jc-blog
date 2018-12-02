@@ -1,21 +1,37 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
+title: "¡Hola, mundo!"
+date: "2018-12-02T00:00:00Z"
+layout: post
+draft: false
+path: "/hello-world/"
+category: "General"
+description: "Primer post"
+tags:
+	- "General"
 ---
 
-This is my first post on my new fake blog! How exciting!
+Llevo tiempo con la idea de montarme un blog para hablar de desarrollo principalmente pero también de cualquier otra cosa que se me ocurra (videojuegos, cine, libros, internet...)
 
-I'm sure I'll write a lot more interesting things in the future.
+>En realidad no es más que una excusa para ponerme a escribir y al mismo tiempo practicar Gatsby en general y GraphQL, React y otros en particular.
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
+Probablemente lo que aquí escriba acabará en Medium, pero no quiero que ninguna plataforma comercial tenga los originales. Para eso escribo este blog, con la idea de que sea la plataforma principal y Medium sea el medio (jeje) para hacer eco.
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+>Espero que la gente de Forestry se ponga las pilas con el soporte para Gatsby.
 
-![Chinese Salty Egg](./salty_egg.jpg)
+Queda mucho por hacer:
+
+* Diseñar, diseñar, diseñar.
+* Implementar funcionalidades:
+  * Tags
+  * About, Contact
+  * Alguna cosilla más que me dejo en el tintero.
+
+Me gusta mucho la idea de que Gatsby esté basado en React. De este modo lo tengo todo más fácil y me puedo centrar en grapQL y md, que es otra pequeña tarea que tenía pendiente para ponerme al día en CMS modernos.
+
+Y bueno, esto es todo. Ni siquiera este post es final, pero como todavía no está implementado el sisema de borradores, así se queda y ya lo iré mejorando durante la semana.
+
+> Me gusta esto de tener un blog.
+
+Para cerrar, una imagen de Neil Armstrong en la luna. *Let there be light*.
+![Neil Armstrong](history-in-hd-1142826-unsplash.jpg)
+Créditos: History in HD en Unsplash.
