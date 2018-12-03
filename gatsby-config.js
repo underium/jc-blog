@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'JC',
+    title: 'JAVIER CÁCERES',
     author: 'Javier Cáceres',
     description: 'Desarrollo, cine y cosas así',
     siteUrl: 'https://javiercaceres.netlify.com/',

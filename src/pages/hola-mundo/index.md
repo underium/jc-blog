@@ -28,7 +28,7 @@ Queda mucho por hacer:
 
 Me gusta mucho la idea de que Gatsby esté basado en React. De este modo lo tengo todo más fácil y me puedo centrar en grapQL y md, que es otra pequeña tarea que tenía pendiente para ponerme al día en CMS modernos.
 
-Y bueno, esto es todo. Ni siquiera este post es final, pero como todavía no está implementado el sisema de borradores, así se queda y ya lo iré mejorando durante la semana.
+Y bueno, esto es todo. Ni siquiera este post es final, pero como todavía no está implementado el sistema de borradores, así se queda y ya lo iré mejorando durante la semana.
 
 > Me gusta esto de tener un blog.
 

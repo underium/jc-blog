@@ -3,6 +3,8 @@ import React from 'react'
 // Import typefaces
 import 'typeface-montserrat'
 import 'typeface-merriweather'
+require('typeface-cinzel-decorative')
+require('typeface-josefin-sans')
 
 import profilePic from './profile-pic.png'
 import { rhythm } from '../utils/typography'
@@ -20,7 +22,7 @@ class Bio extends React.Component {
       >
         <img
           src={profilePic}
-          alt={`Kyle Mathews`}
+          alt={`Javier Cáceres`}
           style={{
             marginRight: rhythm(1 / 2),
             marginBottom: 0,
